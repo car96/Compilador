@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- *
+ *Licence Pending
  * @author carlos
  */
 public class AnalizadorLexico {
